@@ -47,6 +47,9 @@ My name is José Murta, I am from Portugal and currently a MSc Finalist at NOVA 
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zmurta15&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmurta15&hide=TeX&layout=compact)
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=zmurta15&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmurta15&hide=TeX&layout=compact)-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmurta15)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmurta15&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
