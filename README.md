@@ -22,7 +22,7 @@ My name is José Murta, I am from Portugal and currently a MSc Finalist at NOVA 
 
 <h3 align="left">🌐 Socials</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-zmurta15-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-murta-81550b209/)](https://www.linkedin.com/in/jos%C3%A9-murta-81550b209/)
+[![Linkedin Badge](https://img.shields.io/badge/-JoseMurta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-murta/)](https://www.linkedin.com/in/jose-murta/)
 
 <h3 align="left">⚡ Tech Stack</h3>
 
@@ -51,5 +51,6 @@ My name is José Murta, I am from Portugal and currently a MSc Finalist at NOVA 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmurta15&hide=TeX&layout=compact)-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmurta15)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmurta15&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmurta15)](https://github.com/anuraghazra/github-readme-stats) 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmurta15&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
