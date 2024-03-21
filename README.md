@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is José Murta, I am from Portugal and currently a MSc Finalist at NOVA School of Science and Technology. Find out more about me & feel free to connect with me here:
+My name is José Murta, I am from Portugal and recently finished my MSc in Computer Science and Engineering at NOVA School of Science and Technology. Find out more about me & feel free to connect with me here:
 
 <h3 align="left">🌐 Socials</h3>
 
