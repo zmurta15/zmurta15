@@ -51,6 +51,6 @@ My name is José Murta, I am from Portugal and recently finished my MSc in Compu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmurta15&hide=TeX&layout=compact)-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmurta15)](https://github.com/anuraghazra/github-readme-stats) 
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmurta15)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmurta15&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
